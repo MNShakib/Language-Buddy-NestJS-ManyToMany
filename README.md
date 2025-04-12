@@ -166,7 +166,7 @@ Copy
         ],
         "body": {
           "mode": "raw",
-          "raw": "{\n    \"languageId\": 1,\n    \"role\": \"student\",\n    \"proficiency\": 3,\n    \"experience\": \"Beginner\"\n}"
+          "raw": "{\n    \"languageId\": 1,\n    \"userId\": 1,\n    \"role\": \"learner\",\n    \"proficiency\": 3,\n    \"experience\": \"Beginner\"\n}"
         },
         "url": {
           "raw": "http://localhost:3000/users/1/languages",
